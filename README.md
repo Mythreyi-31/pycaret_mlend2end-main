@@ -2,4 +2,4 @@
   Regression AutoML demo with PyCaret
 
 Hosted on steamlit app
-https://pycaret-aditya.streamlit.app/
+https://insurance-mythreyi.streamlit.app/
